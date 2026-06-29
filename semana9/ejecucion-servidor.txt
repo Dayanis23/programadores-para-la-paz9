@@ -1,0 +1,3 @@
+¿Que ocurre cuando ejecuto node server.js?. Al ejecutar este comando, node.js inicia la aplicacion y pone el servidor en modo de escucha, permitiendo que la aplicacion empiece a responder a las solicitudes realizadas a traves del puerto configurado.
+¿Que mensaje aparece en la terminal?. Servidor ejecutandose en puerto 3000.
+¿Que sucede cuand visitas la ruta/estado?. El servidor responde devolviendo un objeto en formato JSON que contiene el estado del sistema ("servidor funionando") y el nombre del servicio ("API comunitaria)

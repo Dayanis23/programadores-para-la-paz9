@@ -1,0 +1,4 @@
+La estabilidad y seguridad de un servidor son vitales porque actúan como los cimientos de la plataforma comunitaria. Si el servidor falla, la comunidad se desmorona por tres razones principales:
+Evita que la comunidad muera (Estabilidad): Si la plataforma se cae seguido, los usuarios se frustran, pierden el hábito de entrar y se mudan a otras redes. El servidor estable garantiza que el espacio esté disponible siempre.
+Protege la privacidad (Seguridad): Un servidor seguro bloquea a los hackers que buscan robar la base de datos (correos, contraseñas, mensajes privados), evitando estafas y protegiendo la identidad de los miembros.
+Cuida el trabajo acumulado (Respaldo): Un fallo grave en un servidor inestable puede borrar años de debates, tutoriales e información valiosa. Mantenerlo seguro incluye copias de seguridad para no perder la "memoria" de la comunidad.
